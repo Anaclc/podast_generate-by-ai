@@ -4,7 +4,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o podcast desenvolvido a partir das aulas do Bootcamp CAAIXA DIO
+ > ℹ️ **NOTE:** Este é o podcast desenvolvido a partir das aulas do Bootcamp CAIXA DIO
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
