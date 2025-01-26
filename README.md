@@ -1,6 +1,3 @@
-# podcast_generate-by-ai
-
-
 # Projeto Podcast Gerado por I.A.s
 
 
